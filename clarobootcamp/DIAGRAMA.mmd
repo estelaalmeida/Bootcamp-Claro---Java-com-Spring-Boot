@@ -1,0 +1,31 @@
+---
+Projeto : Bootcamp Claro & DIO
+---
+classDiagram
+    note "Trilha Java: Back - end"
+    Classes <|-- Claro
+    note for claro "Apendizado do zero "
+    Ambiente-java-projeto <|-- DIO
+    Sintaxe-básica-com-java <|-- DIO
+    Projamação-orientada-a-objeto-java <|-- DIO
+    Testes-e-gerenciamento-de-dependencias <|-- DIO
+    Banco-de-dados-SQL-e-NoSQL-Back-end <|-- DIO
+    Ganho-produtividade-no-java-Spring-framework <|-- DIO
+
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
