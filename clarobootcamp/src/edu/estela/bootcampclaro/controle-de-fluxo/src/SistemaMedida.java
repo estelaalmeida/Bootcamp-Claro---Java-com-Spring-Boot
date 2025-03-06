@@ -1,4 +1,4 @@
-package edu.estela.bootcampclaro.estruturacondicionais;
+package edu.estela.bootcampclaro.Co;
 
     //* Fluxo condicional Switch Case */
 public class SistemaMedida {
