@@ -29,3 +29,5 @@ clarobootcamp/src/edu/estela/bootcampclaro/metodos/projeto/sistema-smart-tv/.vsc
 .gitignore
 clarobootcamp/src/edu/estela/bootcampclaro/desafios/contabanco/.vscode/settings.json
 clarobootcamp/src/edu/estela/bootcampclaro/controle-de-fluxo/.vscode/settings.json
+clarobootcamp/src/edu/estela/bootcampclaro/projetos/controle-candidatos/.vscode/settings.json
+clarobootcamp/src/edu/estela/bootcampclaro/projetos/ControleFluxo/.vscode/settings.json
