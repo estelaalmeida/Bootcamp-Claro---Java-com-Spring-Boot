@@ -27,6 +27,8 @@ Podemos ordenar os elementos da lista do tipo Comparable usando o método Collec
 * O método sort() é usado para ordenar uma lista em ordem ascendente.
 * O método sort() em conjunto com `Collections.reverseOrder()` permite ordenar em ordem descendente.
 
+atalho para testes de classes
+![img_1.png](img_1.png)
 
 `package main.java.comparableXcomparator;`
 
@@ -97,3 +99,9 @@ return autor;
 return l1.getTitulo().compareTo(l2.getTitulo());
 }
 }
+
+OBs: para fazer teste sem   API junit  usa-se psvm      
+
+
+
+
